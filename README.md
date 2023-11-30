@@ -4,7 +4,7 @@ All credits to WebshopWorks.com, this override is just to address CreativeElemen
 
 ## How to make it work?
 
-Please copy `creativeelements.php` to your `_PS_PATH/override/modules/creativeelements` directory and it should work.
+Please copy `creativeelements.php` to your `_PS_PATH_/override/modules/creativeelements` directory and it should work.
 
 ## What are differences?
 
