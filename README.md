@@ -1,4 +1,4 @@
-# creativeelements_prestashop_8_1
+# CreativeElements in PrestaShop 8.1
 
 All credits to WebshopWorks.com, this override is just to address CreativeElements issues in the 8.1 PrestaShop release.
 
